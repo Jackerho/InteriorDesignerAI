@@ -25,7 +25,11 @@ An AI generated system is made with a  score mechanism, which takes an image of 
 
 The project is under development. 
 As a simple example we have given a simple application. We have taken an office furniture image and replaced a chair from it with another.
+We used an image of office furniture and extracted the chair from it.
+![Office Furniture with chair detected](https://github.com/yeshwanthdatascience/InteriorDesignerAI/blob/master/Images/officeFurniture1Detected.jpg)
 
+We used image processing techniques and replaced the chair with another chair
+![Office Furniture with replaced chair](https://github.com/yeshwanthdatascience/InteriorDesignerAI/blob/master/Images/officeFurnitureReplaceChair2.jpg)
 
 Conclusion:
 We make a system that finalizes an interior designer based on Artificial Intelligence (AI). The design is custom-made, personalized to customer need and generates interior designs that look like realistic photos. The system is  developed with cutting-edge technology based on AI, deep learning, image processing as well as advanced algorithms.
